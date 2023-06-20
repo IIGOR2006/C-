@@ -1,0 +1,15 @@
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less1\task08\bin\Debug\net7.0\task08.exe
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less1\task08\bin\Debug\net7.0\task08.deps.json
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less1\task08\bin\Debug\net7.0\task08.runtimeconfig.json
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less1\task08\bin\Debug\net7.0\task08.dll
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less1\task08\bin\Debug\net7.0\task08.pdb
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less1\task08\obj\Debug\net7.0\task08.csproj.AssemblyReference.cache
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less1\task08\obj\Debug\net7.0\task08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less1\task08\obj\Debug\net7.0\task08.AssemblyInfoInputs.cache
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less1\task08\obj\Debug\net7.0\task08.AssemblyInfo.cs
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less1\task08\obj\Debug\net7.0\task08.csproj.CoreCompileInputs.cache
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less1\task08\obj\Debug\net7.0\task08.dll
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less1\task08\obj\Debug\net7.0\refint\task08.dll
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less1\task08\obj\Debug\net7.0\task08.pdb
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less1\task08\obj\Debug\net7.0\task08.genruntimeconfig.cache
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less1\task08\obj\Debug\net7.0\ref\task08.dll
