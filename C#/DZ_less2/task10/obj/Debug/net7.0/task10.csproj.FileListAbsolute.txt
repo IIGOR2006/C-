@@ -1,0 +1,15 @@
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less2\task10\bin\Debug\net7.0\task10.exe
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less2\task10\bin\Debug\net7.0\task10.deps.json
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less2\task10\bin\Debug\net7.0\task10.runtimeconfig.json
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less2\task10\bin\Debug\net7.0\task10.dll
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less2\task10\bin\Debug\net7.0\task10.pdb
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less2\task10\obj\Debug\net7.0\task10.csproj.AssemblyReference.cache
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less2\task10\obj\Debug\net7.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less2\task10\obj\Debug\net7.0\task10.AssemblyInfoInputs.cache
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less2\task10\obj\Debug\net7.0\task10.AssemblyInfo.cs
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less2\task10\obj\Debug\net7.0\task10.csproj.CoreCompileInputs.cache
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less2\task10\obj\Debug\net7.0\task10.dll
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less2\task10\obj\Debug\net7.0\refint\task10.dll
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less2\task10\obj\Debug\net7.0\task10.pdb
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less2\task10\obj\Debug\net7.0\task10.genruntimeconfig.cache
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less2\task10\obj\Debug\net7.0\ref\task10.dll
