@@ -22,4 +22,4 @@ if (num!.Length == 5)
     number(num);
 }
 else
-console.WriteLine($"введите правильное число")
+console.WriteLine($"введите правильное число");
