@@ -1,9 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 Console.WriteLine("введите пятизначное число");
-int num = Convert.ToInt32(Console.ReadLine());
+string num = Convert.ToInt32(Console.ReadLine());
 
-string num = Convert.ToString(num);
 
 void number(string num)
 {
