@@ -1,0 +1,15 @@
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less3\task21\bin\Debug\net7.0\task21.exe
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less3\task21\bin\Debug\net7.0\task21.deps.json
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less3\task21\bin\Debug\net7.0\task21.runtimeconfig.json
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less3\task21\bin\Debug\net7.0\task21.dll
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less3\task21\bin\Debug\net7.0\task21.pdb
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less3\task21\obj\Debug\net7.0\task21.csproj.AssemblyReference.cache
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less3\task21\obj\Debug\net7.0\task21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less3\task21\obj\Debug\net7.0\task21.AssemblyInfoInputs.cache
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less3\task21\obj\Debug\net7.0\task21.AssemblyInfo.cs
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less3\task21\obj\Debug\net7.0\task21.csproj.CoreCompileInputs.cache
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less3\task21\obj\Debug\net7.0\task21.dll
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less3\task21\obj\Debug\net7.0\refint\task21.dll
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less3\task21\obj\Debug\net7.0\task21.pdb
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less3\task21\obj\Debug\net7.0\task21.genruntimeconfig.cache
+C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less3\task21\obj\Debug\net7.0\ref\task21.dll
