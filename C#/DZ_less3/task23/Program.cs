@@ -2,7 +2,7 @@
 // 3 -> 1, 8, 27
 // 5 -> 1, 8, 27, 64, 125
 
-Console.WriteLine("\n Задача 23");
+
 Console.Write("Введите число: ");
 int cube = Convert.ToInt32(Console.ReadLine());
 
