@@ -21,3 +21,10 @@ C:\git\C-\C#\DZ_less5\task34\obj\Debug\net7.0\task34.csproj.CoreCompileInputs.ca
 C:\git\C-\C#\DZ_less5\task34\obj\Debug\net7.0\task34.dll
 C:\git\C-\C#\DZ_less5\task34\obj\Debug\net7.0\refint\task34.dll
 C:\git\C-\C#\DZ_less5\task34\obj\Debug\net7.0\task34.pdb
+C:\git\C-\C#\DZ_less5\task34\bin\Debug\net7.0\task34.exe
+C:\git\C-\C#\DZ_less5\task34\bin\Debug\net7.0\task34.deps.json
+C:\git\C-\C#\DZ_less5\task34\bin\Debug\net7.0\task34.runtimeconfig.json
+C:\git\C-\C#\DZ_less5\task34\bin\Debug\net7.0\task34.dll
+C:\git\C-\C#\DZ_less5\task34\bin\Debug\net7.0\task34.pdb
+C:\git\C-\C#\DZ_less5\task34\obj\Debug\net7.0\task34.genruntimeconfig.cache
+C:\git\C-\C#\DZ_less5\task34\obj\Debug\net7.0\ref\task34.dll
