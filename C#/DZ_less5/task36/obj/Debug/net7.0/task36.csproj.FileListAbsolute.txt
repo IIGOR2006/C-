@@ -1,0 +1,5 @@
+C:\git\C-\C#\DZ_less5\task36\obj\Debug\net7.0\task36.csproj.AssemblyReference.cache
+C:\git\C-\C#\DZ_less5\task36\obj\Debug\net7.0\task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\C-\C#\DZ_less5\task36\obj\Debug\net7.0\task36.AssemblyInfoInputs.cache
+C:\git\C-\C#\DZ_less5\task36\obj\Debug\net7.0\task36.AssemblyInfo.cs
+C:\git\C-\C#\DZ_less5\task36\obj\Debug\net7.0\task36.csproj.CoreCompileInputs.cache
