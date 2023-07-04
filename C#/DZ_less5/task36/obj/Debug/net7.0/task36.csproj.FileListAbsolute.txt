@@ -3,3 +3,13 @@ C:\git\C-\C#\DZ_less5\task36\obj\Debug\net7.0\task36.GeneratedMSBuildEditorConfi
 C:\git\C-\C#\DZ_less5\task36\obj\Debug\net7.0\task36.AssemblyInfoInputs.cache
 C:\git\C-\C#\DZ_less5\task36\obj\Debug\net7.0\task36.AssemblyInfo.cs
 C:\git\C-\C#\DZ_less5\task36\obj\Debug\net7.0\task36.csproj.CoreCompileInputs.cache
+C:\git\C-\C#\DZ_less5\task36\bin\Debug\net7.0\task36.exe
+C:\git\C-\C#\DZ_less5\task36\bin\Debug\net7.0\task36.deps.json
+C:\git\C-\C#\DZ_less5\task36\bin\Debug\net7.0\task36.runtimeconfig.json
+C:\git\C-\C#\DZ_less5\task36\bin\Debug\net7.0\task36.dll
+C:\git\C-\C#\DZ_less5\task36\bin\Debug\net7.0\task36.pdb
+C:\git\C-\C#\DZ_less5\task36\obj\Debug\net7.0\task36.dll
+C:\git\C-\C#\DZ_less5\task36\obj\Debug\net7.0\refint\task36.dll
+C:\git\C-\C#\DZ_less5\task36\obj\Debug\net7.0\task36.pdb
+C:\git\C-\C#\DZ_less5\task36\obj\Debug\net7.0\task36.genruntimeconfig.cache
+C:\git\C-\C#\DZ_less5\task36\obj\Debug\net7.0\ref\task36.dll
