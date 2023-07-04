@@ -13,3 +13,11 @@ C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less5\task34\obj\Debug\net7.0\refint\
 C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less5\task34\obj\Debug\net7.0\task34.pdb
 C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less5\task34\obj\Debug\net7.0\task34.genruntimeconfig.cache
 C:\Users\Goncharoviv\Documents\gitGB\C#\DZ_less5\task34\obj\Debug\net7.0\ref\task34.dll
+C:\git\C-\C#\DZ_less5\task34\obj\Debug\net7.0\task34.csproj.AssemblyReference.cache
+C:\git\C-\C#\DZ_less5\task34\obj\Debug\net7.0\task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\C-\C#\DZ_less5\task34\obj\Debug\net7.0\task34.AssemblyInfoInputs.cache
+C:\git\C-\C#\DZ_less5\task34\obj\Debug\net7.0\task34.AssemblyInfo.cs
+C:\git\C-\C#\DZ_less5\task34\obj\Debug\net7.0\task34.csproj.CoreCompileInputs.cache
+C:\git\C-\C#\DZ_less5\task34\obj\Debug\net7.0\task34.dll
+C:\git\C-\C#\DZ_less5\task34\obj\Debug\net7.0\refint\task34.dll
+C:\git\C-\C#\DZ_less5\task34\obj\Debug\net7.0\task34.pdb
