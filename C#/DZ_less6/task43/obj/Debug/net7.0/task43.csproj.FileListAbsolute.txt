@@ -1,0 +1,15 @@
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less6\task43\obj\Debug\net7.0\task43.csproj.AssemblyReference.cache
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less6\task43\obj\Debug\net7.0\task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less6\task43\obj\Debug\net7.0\task43.AssemblyInfoInputs.cache
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less6\task43\obj\Debug\net7.0\task43.AssemblyInfo.cs
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less6\task43\obj\Debug\net7.0\task43.csproj.CoreCompileInputs.cache
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less6\task43\bin\Debug\net7.0\task43.exe
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less6\task43\bin\Debug\net7.0\task43.deps.json
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less6\task43\bin\Debug\net7.0\task43.runtimeconfig.json
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less6\task43\bin\Debug\net7.0\task43.dll
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less6\task43\bin\Debug\net7.0\task43.pdb
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less6\task43\obj\Debug\net7.0\task43.dll
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less6\task43\obj\Debug\net7.0\refint\task43.dll
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less6\task43\obj\Debug\net7.0\task43.pdb
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less6\task43\obj\Debug\net7.0\task43.genruntimeconfig.cache
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less6\task43\obj\Debug\net7.0\ref\task43.dll
