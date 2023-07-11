@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Goncharoviv\\Documents\\gitGB\\C#\\DZ_less5\\task38\\task38.csproj": {}
+    "C:\\git\\C-\\C#\\DZ_less5\\task38\\task38.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Goncharoviv\\Documents\\gitGB\\C#\\DZ_less5\\task38\\task38.csproj": {
+    "C:\\git\\C-\\C#\\DZ_less5\\task38\\task38.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Goncharoviv\\Documents\\gitGB\\C#\\DZ_less5\\task38\\task38.csproj",
+        "projectUniqueName": "C:\\git\\C-\\C#\\DZ_less5\\task38\\task38.csproj",
         "projectName": "task38",
-        "projectPath": "C:\\Users\\Goncharoviv\\Documents\\gitGB\\C#\\DZ_less5\\task38\\task38.csproj",
-        "packagesPath": "C:\\Users\\Goncharoviv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Goncharoviv\\Documents\\gitGB\\C#\\DZ_less5\\task38\\obj\\",
+        "projectPath": "C:\\git\\C-\\C#\\DZ_less5\\task38\\task38.csproj",
+        "packagesPath": "C:\\Users\\пк\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\C-\\C#\\DZ_less5\\task38\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Goncharoviv\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\пк\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     }

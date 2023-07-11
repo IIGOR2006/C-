@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Goncharoviv\\.nuget\\packages\\": {}
+    "C:\\Users\\пк\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Goncharoviv\\Documents\\gitGB\\C#\\DZ_less5\\task34\\task34.csproj",
+      "projectUniqueName": "C:\\git\\C-\\C#\\DZ_less5\\task34\\task34.csproj",
       "projectName": "task34",
-      "projectPath": "C:\\Users\\Goncharoviv\\Documents\\gitGB\\C#\\DZ_less5\\task34\\task34.csproj",
-      "packagesPath": "C:\\Users\\Goncharoviv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Goncharoviv\\Documents\\gitGB\\C#\\DZ_less5\\task34\\obj\\",
+      "projectPath": "C:\\git\\C-\\C#\\DZ_less5\\task34\\task34.csproj",
+      "packagesPath": "C:\\Users\\пк\\.nuget\\packages\\",
+      "outputPath": "C:\\git\\C-\\C#\\DZ_less5\\task34\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Goncharoviv\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\пк\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
       }
     }
   }
