@@ -1,0 +1,15 @@
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less8\bin\Debug\net7.0\DZ_less8.exe
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less8\bin\Debug\net7.0\DZ_less8.deps.json
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less8\bin\Debug\net7.0\DZ_less8.runtimeconfig.json
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less8\bin\Debug\net7.0\DZ_less8.dll
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less8\bin\Debug\net7.0\DZ_less8.pdb
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less8\obj\Debug\net7.0\DZ_less8.csproj.AssemblyReference.cache
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less8\obj\Debug\net7.0\DZ_less8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less8\obj\Debug\net7.0\DZ_less8.AssemblyInfoInputs.cache
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less8\obj\Debug\net7.0\DZ_less8.AssemblyInfo.cs
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less8\obj\Debug\net7.0\DZ_less8.csproj.CoreCompileInputs.cache
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less8\obj\Debug\net7.0\DZ_less8.dll
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less8\obj\Debug\net7.0\refint\DZ_less8.dll
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less8\obj\Debug\net7.0\DZ_less8.pdb
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less8\obj\Debug\net7.0\DZ_less8.genruntimeconfig.cache
+C:\Users\Goncharoviv\Documents\gitGB\C-\C#\DZ_less8\obj\Debug\net7.0\ref\DZ_less8.dll
