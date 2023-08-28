@@ -1,0 +1,21 @@
+# Задача 14: Требуется вывести все целые степени двойки (т.е. числа вида 2^k), не превосходящие числа N.
+# 
+# Задача 1 HARD по желанию Напишите программу, которая принимает на вход целое или дробное число и выдаёт количество цифр в числе.
+
+
+
+
+
+from decimal import Decimal
+NUM = input()
+NUM = Decimal(NUM).normalize()
+count = 0
+
+while NUM != 0:
+    count += 1
+    while int(NUM) > 10:
+       NUM /= 10
+    NUM = NUM - int(NUM)
+    NUM *= 10
+
+print(count)
