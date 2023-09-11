@@ -6,16 +6,17 @@
 
 для k = 8 список будет выглядеть так: [-21 ,13, -8, 5, −3, 2, −1, 1, 0, 1, 1, 2, 3, 5, 8, 13, 21] [Негафибоначчи]
 '''
-
 fib = [1,0,1]
 
-n = 8
-
-for i in range(n-1):
-
-    fib.insert(0, fib[1] - fib[0])
+def func (n):
     
-    fib.append(fib[-1] + fib[-2])
+        for i in range(n-1):
+
+            fib.insert(0, fib[1] - fib[0])
     
+            fib.append(fib[-1] + fib[-2])
+    
+        return fib
+func(int(input("введите число расчетов больше 1: n = ")))
 
 print(fib)
