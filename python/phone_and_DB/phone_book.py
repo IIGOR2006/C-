@@ -32,11 +32,23 @@ while True:
         conn.commit()
     
     def all_data():
-        cursor.execute('SELECT name, address, mail,phone_number  FROM users,phones')
+        cursor.execute('SELECT *  FROM users')
         all_result = cursor.fetchall()
-        print(all_result)
+        cursor.execute('SELECT *  FROM phones')
+        all_result2 = cursor.fetchall()
         
-    def delet():
+        for i in all_result:
+            print(i[0])
+            buf = i[0]
+            for j in all_result2:
+                if buf == j[1]:
+                    num = j[2]
+                    print(num)
+        
+        # print(all_result)
+        # print(all_result2)
+        
+    def delete():
         name = input('Введите имя контакта для удаления')
         nu = cursor.execute( 'SELECT id FROM users WHERE  name= ?', [name]).fetchone()[0]
         cursor.execute('DELETE FROM phones WHERE id_user = ?', [nu])
@@ -63,7 +75,7 @@ while True:
     if option == '2':
         all_data()
     if option == '3':
-        delet()
+        delete()
     if option == '4':
         search()
         
